@@ -49,4 +49,33 @@
     
   </entry>
   
+  <entry>
+    <title>一篇博客-Hexo-Hello</title>
+    <link href="http://example.com/2025/10/02/2025-10-02-%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-Hexo-Hello/"/>
+    <id>http://example.com/2025/10/02/2025-10-02-%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2-Hexo-Hello/</id>
+    <published>2025-10-01T23:15:19.121Z</published>
+    <updated>2025-10-02T07:15:19.122Z</updated>
+    
+    <content type="html"><![CDATA[<p>fff</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;fff&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="http://example.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="Hexo" scheme="http://example.com/tags/Hexo/"/>
+    
+    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hello" scheme="http://example.com/tags/Hello/"/>
+    
+  </entry>
+  
 </feed>
